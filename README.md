@@ -1,6 +1,6 @@
 # Laravel
 ## Migrations
-- The down() function is required.
+- The down() function is required in all migrations.
 - The down() function of migration must have code reverse to up() function.
 ## first() vs get()
 - Use first() where we need only one record.
